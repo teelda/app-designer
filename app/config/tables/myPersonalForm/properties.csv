@@ -1,0 +1,7 @@
+_partition,_aspect,_key,_type,_value
+Column,current_location,displayChoicesList,object,"[{""choice_list_name"":""location"",""data_value"":""Nigeria"",""display"":{""title"":{""text"":""Nigeria""}},""_row_num"":4},{""choice_list_name"":""location"",""data_value"":""India"",""display"":{""title"":{""text"":""India""}},""_row_num"":5},{""choice_list_name"":""location"",""data_value"":""USA"",""display"":{""title"":{""text"":""USA""}},""_row_num"":6}]"
+Column,isAdult,displayChoicesList,object,"[{""choice_list_name"":""yesno"",""data_value"":""yes"",""display"":{""title"":{""text"":""yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""no"",""display"":{""title"":{""text"":""no""}},""_row_num"":3}]"
+FormType,default,FormType.formType,string,SURVEY
+SurveyUtil,default,SurveyUtil.formId,string,myPersonalForm
+Table,default,defaultViewType,string,SPREADSHEET
+Table,default,displayName,object,"{""text"":{""en"":""My Personal Form"",""hi"":""hindi exampleform"",""default"":""My Personal Form""}}"
